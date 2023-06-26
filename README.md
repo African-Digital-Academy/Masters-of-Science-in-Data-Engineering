@@ -1,89 +1,89 @@
 # Masters of Science in Data Engineering
-Masters of Science in Data Engineering, Open University, African Digital University
+Masters of Science in Data Engineering, Open University, African Digital University </p>
 
-Masters of Science in Data Engineering
-African Digital University, Open Campus
-We are developing a 365-day data engineering challenge course that covers various programming languages, data engineering concepts, data modeling, database concepts, data warehousing, data marts, and cloud computing. 
+Masters of Science in Data Engineering </p>
+African Digital University, Open Campus </p>
+We are developing a 365-day data engineering challenge course that covers various programming languages, data engineering concepts, data modeling, database concepts, data warehousing, data marts, and cloud computing. </p>
 
-Here's a suggested outline for this challenge:
+Here's a suggested outline for this challenge: </p>
 
-# Week 1: Introduction to Data Engineering
-Day 1: Overview of Data Engineering Concepts and Tools
-Day 2: Setting up Development Environment for Python, R, Scala, and SQL
-Day 3: Introduction to Data Modeling and Relational Databases
-Day 4: Building a Simple ETL Pipeline using Python
-Day 5: Introduction to Cloud Computing for Data Engineering
-Day 6: Exploring Cloud-based Data Warehousing Solutions
-Day 7: Hands-on Exercise: Building a Data Pipeline using Python and Cloud 
+# Week 1: Introduction to Data Engineering </p>
+Day 1: Overview of Data Engineering Concepts and Tools </p>
+Day 2: Setting up Development Environment for Python, R, Scala, and SQL </p>
+Day 3: Introduction to Data Modeling and Relational Databases </p>
+Day 4: Building a Simple ETL Pipeline using Python </p>
+Day 5: Introduction to Cloud Computing for Data Engineering </p>
+Day 6: Exploring Cloud-based Data Warehousing Solutions </p>
+Day 7: Hands-on Exercise: Building a Data Pipeline using Python and Cloud </p> 
 
 # Week 2: Python for Data Engineering
-Day 8: Data Manipulation and Transformation with Python (Pandas)
-Day 9: Data Processing with Python (PySpark)
-Day 10: Building Data Pipelines with Python (Apache Airflow)
-Day 11: Data Streaming with Python (Apache Kafka)
-Day 12: Data Quality and Validation in Python
-Day 13: Real-time Data Processing with Python (Apache Flink)
-Day 14: Hands-on Exercise: Building a Python-based Data Pipeline using Airflow and Kafka
+Day 8: Data Manipulation and Transformation with Python (Pandas) </p>
+Day 9: Data Processing with Python (PySpark) </p>
+Day 10: Building Data Pipelines with Python (Apache Airflow) </p>
+Day 11: Data Streaming with Python (Apache Kafka) </p>
+Day 12: Data Quality and Validation in Python </p>
+Day 13: Real-time Data Processing with Python (Apache Flink) </p>
+Day 14: Hands-on Exercise: Building a Python-based Data Pipeline using Airflow and Kafka </p>
 
-# Week 3: R for Data Engineering
-Day 15: Introduction to R for Data Engineering
-Day 16: Data Manipulation and Transformation with R (dplyr)
-Day 17: Data Processing with R (SparkR)
-Day 18: Building Data Pipelines with R (drake)
-Day 19: Data Streaming with R (StreamR)
-Day 20: Real-time Data Processing with R (data.table)
-Day 21: Hands-on Exercise: Building an R-based Data Pipeline using drake and SparkR
+# Week 3: R for Data Engineering 
+Day 15: Introduction to R for Data Engineering </p>
+Day 16: Data Manipulation and Transformation with R (dplyr) </p>
+Day 17: Data Processing with R (SparkR) </p>
+Day 18: Building Data Pipelines with R (drake) </p>
+Day 19: Data Streaming with R (StreamR) </p>
+Day 20: Real-time Data Processing with R (data.table) </p>
+Day 21: Hands-on Exercise: Building an R-based Data Pipeline using drake and SparkR </p>
 
 # Week 4: Scala for Data Engineering
-Day 22: Introduction to Scala for Data Engineering
-Day 23: Data Manipulation and Transformation with Scala (Apache Spark)
-Day 24: Building Data Pipelines with Scala (Apache Beam)
-Day 25: Data Streaming with Scala (Apache Kafka)
-Day 26: Real-time Data Processing with Scala (Apache Flink)
-Day 27: Data Validation and Testing in Scala
-Day 28: Hands-on Exercise: Building a Scala-based Data Pipeline using Apache Beam and Flink
+Day 22: Introduction to Scala for Data Engineering </p>
+Day 23: Data Manipulation and Transformation with Scala (Apache Spark) </p>
+Day 24: Building Data Pipelines with Scala (Apache Beam) </p>
+Day 25: Data Streaming with Scala (Apache Kafka) </p>
+Day 26: Real-time Data Processing with Scala (Apache Flink) </p>
+Day 27: Data Validation and Testing in Scala </p>
+Day 28: Hands-on Exercise: Building a Scala-based Data Pipeline using Apache Beam and Flink </p>
 
 # Week 5: SQL and Database Concepts
-Day 29: Introduction to SQL and Relational Databases
-Day 30: Advanced SQL Techniques for Data Engineering
-Day 31: Data Modeling and Database Design Principles
-Day 32: Introduction to NoSQL Databases
-Day 33: Implementing Data Warehouses with SQL
-Day 34: Implementing Data Marts with SQL
-Day 35: Hands-on Exercise: Designing and Implementing a Database Schema
+Day 29: Introduction to SQL and Relational Databases </p>
+Day 30: Advanced SQL Techniques for Data Engineering </p>
+Day 31: Data Modeling and Database Design Principles </p>
+Day 32: Introduction to NoSQL Databases </p>
+Day 33: Implementing Data Warehouses with SQL </p>
+Day 34: Implementing Data Marts with SQL </p>
+Day 35: Hands-on Exercise: Designing and Implementing a Database Schema </p>
 
 # Week 6: Cloud Computing for Data Engineering
-Day 36: Introduction to Cloud Computing Platforms (AWS, Azure, GCP)
-Day 37: Cloud-based Data Storage Solutions (S3, Azure Blob Storage)
-Day 38: Cloud-based Data Processing (AWS Glue, Azure Data Factory)
-Day 39: Cloud-based Data Warehousing (Redshift, Azure Synapse Analytics)
-Day 40: Cloud-based Big Data Processing (EMR, Azure HDInsight)
-Day 41: Serverless Computing for Data Engineering (AWS Lambda, Azure Functions)
-Day 42: Hands-on Exercise: Building an End-to-End Data Pipeline in the Cloud
+Day 36: Introduction to Cloud Computing Platforms (AWS, Azure, GCP) </p>
+Day 37: Cloud-based Data Storage Solutions (S3, Azure Blob Storage) </p>
+Day 38: Cloud-based Data Processing (AWS Glue, Azure Data Factory) </p>
+Day 39: Cloud-based Data Warehousing (Redshift, Azure Synapse Analytics) </p>
+Day 40: Cloud-based Big Data Processing (EMR, Azure HDInsight) </p>
+Day 41: Serverless Computing for Data Engineering (AWS Lambda, Azure Functions) </p>
+Day 42: Hands-on Exercise: Building an End-to-End Data Pipeline in the Cloud </p>
 
 # Week 7: Continued Learning and Advanced Concepts
-Day 43: Exploring Data Streaming Architectures (Lambda Architecture, Kappa Architecture)
-Day 44: Data Lineage and Metadata Management in Data Engineering
-Day 45: Implementing Change Data Capture (CDC) in Data Pipelines
-Day 46: Real-time Analytics with Apache Druid and Apache Pinot
-Day 47: Data Engineering with Graph Databases (Neo4j, JanusGraph)
-Day 48: Implementing Data Catalogs for Data Discovery and Governance
-Day 49: Data Integration and ETL Patterns in Data Engineering
-Day 50: Building Event-Driven Architectures for Data Engineering
-Day 51: Data Pipelines for Machine Learning and AI Applications
-Day 52: Hands-on Project: Building a Real-time Streaming Pipeline with Apache Kafka and Flink
+Day 43: Exploring Data Streaming Architectures (Lambda Architecture, Kappa Architecture) </p>
+Day 44: Data Lineage and Metadata Management in Data Engineering </p>
+Day 45: Implementing Change Data Capture (CDC) in Data Pipelines </p>
+Day 46: Real-time Analytics with Apache Druid and Apache Pinot </p>
+Day 47: Data Engineering with Graph Databases (Neo4j, JanusGraph) </p>
+Day 48: Implementing Data Catalogs for Data Discovery and Governance </p>
+Day 49: Data Integration and ETL Patterns in Data Engineering </p>
+Day 50: Building Event-Driven Architectures for Data Engineering </p>
+Day 51: Data Pipelines for Machine Learning and AI Applications </p>
+Day 52: Hands-on Project: Building a Real-time Streaming Pipeline with Apache Kafka and Flink </p>
 
 # Week 8: Continued Learning and Advanced Concepts
-Day 53: Data Quality Assessment and Monitoring in Data Pipelines
-Day 54: Implementing CDC with Apache Kafka Connect and Debezium
-Day 55: Introduction to Data Virtualization and Federation
-Day 56: Building Data Pipelines with Apache NiFi and StreamSets
-Day 57: Real-time Analytics with Apache Spark Streaming
-Day 58: Implementing Data Lineage and Impact Analysis
-Day 59: Advanced Data Integration Techniques (Change Data Capture, Upserts)
-Day 60: Implementing Multi-Cloud Data Engineering Solutions
-Day 61: Data Engineering for Serverless Architectures
-Day 62: Hands-on Project: Designing and Implementing a Data Warehouse
+Day 53: Data Quality Assessment and Monitoring in Data Pipelines </p>
+Day 54: Implementing CDC with Apache Kafka Connect and Debezium </p>
+Day 55: Introduction to Data Virtualization and Federation </p>
+Day 56: Building Data Pipelines with Apache NiFi and StreamSets </p>
+Day 57: Real-time Analytics with Apache Spark Streaming </p>
+Day 58: Implementing Data Lineage and Impact Analysis </p>
+Day 59: Advanced Data Integration Techniques (Change Data Capture, Upserts) </p>
+Day 60: Implementing Multi-Cloud Data Engineering Solutions </p>
+Day 61: Data Engineering for Serverless Architectures </p>
+Day 62: Hands-on Project: Designing and Implementing a Data Warehouse </p>
 
 # Week 9: Continued Learning and Advanced Concepts
 Day 63: Implementing Data Lake Architectures with Hadoop and Spark
