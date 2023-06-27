@@ -1,9 +1,9 @@
 # Masters of Science in Data Engineering,
 # African Digital University, Open Campus
 # HANDS ON PROJECTS
-# Project 1:
-# Project: Building a Data Warehouse with Amazon Redshift
-# Scenario:
+<b> Project 1:
+<b> Project: Building a Data Warehouse with Amazon Redshift
+<b> Scenario:
 Assume you are a data engineer working with Amazon, a retail e-commerce company. The company wants to build a scalable data warehouse to 
 store and analyze their transactional and customer data. As part of the project, you need to set up an Amazon Redshift cluster and design and implement 
 an ETL pipeline to load data into the data warehouse. </p>
