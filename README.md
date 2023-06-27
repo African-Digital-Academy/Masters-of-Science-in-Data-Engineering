@@ -1,5 +1,4 @@
 # Masters of Science in Data Engineering
-Masters of Science in Data Engineering, Open University, African Digital University </p>
 
 Masters of Science in Data Engineering </p>
 African Digital University, Open Campus </p>
