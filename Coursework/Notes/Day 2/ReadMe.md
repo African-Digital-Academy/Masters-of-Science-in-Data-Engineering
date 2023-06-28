@@ -1,5 +1,5 @@
 # Masters of Science in Data Engineering
-<b>African Digital Academy, Open Campus</b></p>
+<b>African Digital Academy, Open Learning Campus</b></p>
 <b>Day 2: Setting up Development Environment for Python, R, Scala, and SQL</b></p>
 
 In this session, participants will learn how to set up their development environment to work with essential programming languages and tools used in 
