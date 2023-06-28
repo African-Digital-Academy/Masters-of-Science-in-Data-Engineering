@@ -1,7 +1,7 @@
 # Masters of Science in Data Engineering
 
 Masters of Science in Data Engineering </p>
-African Digital University, Open Campus </p>
+African Digital Academy, Open Learning Campus </p>
 We are developing a 365-day data engineering challenge course that covers various programming languages, data engineering concepts, data modeling, database concepts, data warehousing, data marts, and cloud computing. </p>
 
 Here's a suggested outline for this challenge: </p>
