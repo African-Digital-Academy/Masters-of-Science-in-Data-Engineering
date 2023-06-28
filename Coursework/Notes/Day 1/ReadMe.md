@@ -1,5 +1,5 @@
 # Masters of Science in Data Engineering
-<b>African Digital University, Open Campus</b>
+<b>African Digital Academy, Open Learning Campus</b>
 
 <b> Day 1: Overview of Data Engineering Concepts and Tools</b>
 
