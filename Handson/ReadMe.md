@@ -1,4 +1,4 @@
-# Masters of Science in Data Engineering,</br>
+# Masters of Science in Data Engineering</br>
 African Digital University, Open Campus</br>
 HANDS ON PROJECTS</br>
 
