@@ -91,226 +91,242 @@ Document the Findings and Data Cleaning Steps:</br>
 Document your observations, insights, and the steps taken to clean the data. This documentation is essential for reproducibility, transparency, and collaboration with other stakeholders. Include details about the data exploration process, identified issues, and the methods used to clean the data.</br>
 Deliverables:</br>
 i.	Acquired dataset suitable for analysis.</br>
-ii.	Explored dataset with a clear understanding of its structure and contents.
-iii.	Cleaned dataset with missing values, duplicates, and outliers addressed.
-iv.	Documented findings and steps taken to clean the data.
-Objective:- By completing this project, you will ensure that the dataset is prepared for further analysis, modeling, or any other data-related tasks within company ABC.
+ii.	Explored dataset with a clear understanding of its structure and contents.</br>
+iii.	Cleaned dataset with missing values, duplicates, and outliers addressed.</br>
+iv.	Documented findings and steps taken to clean the data.</br>
+Objective:- By completing this project, you will ensure that the dataset is prepared for further analysis, modeling, or any other data-related tasks within company ABC.</br>
 
-
-Project 3: 
-Project: Database Design and Modeling
-Assume you are a data engineer working with Bloomberg. You are supposed to:
-Identify a business scenario and design a relational database schema for the organization. 
-Define appropriate tables, columns, primary and foreign keys.
-Implement the schema in a database management system (e.g., MySQL, PostgreSQL).
-Populate the tables with sample data and perform basic queries.
-Full project:
-Project Description:
-As a data engineer working with Bloomberg, your task is to design a relational database schema for a specific business scenario. This involves identifying the necessary tables, columns, primary keys, and foreign keys to represent the data in a structured and efficient manner. After designing the schema, you will implement it in a database management system (e.g., MySQL, PostgreSQL), populate the tables with sample data, and perform basic queries to validate the schema.
-Identify the Business Scenario:
-Select a business scenario or use case that requires a database to store and manage relevant data. This can be any scenario within the scope of the company, such as an e-commerce website, a customer relationship management system, or an inventory management system.
-Design the Relational Database Schema:
-Based on the selected business scenario, design a relational database schema that represents the entities, relationships, and attributes of the system. Consider the following steps:
-a. Identify the main entities involved in the scenario. These can be customers, products, orders, employees, etc.
-b. Define the attributes for each entity. For example, a customer entity may have attributes like name, email, and address.
-c. Determine the relationships between entities. For example, an order entity may be related to both the customer and product entities.
-d. Assign primary keys to uniquely identify each entity. Primary keys ensure the uniqueness of records in a table.
-e. Establish foreign key relationships between tables. Foreign keys maintain referential integrity and enable connections between related entities.
-Implement the Schema in a Database Management System:
-Choose a suitable database management system (e.g., MySQL, PostgreSQL) and implement the designed schema by creating the necessary tables, columns, primary keys, and foreign keys.
-Populate the Tables with Sample Data:
+Project 3: </br>
+Project: Database Design and Modeling</br>
+Assume you are a data engineer working with Bloomberg. You are supposed to:</br>
+Identify a business scenario and design a relational database schema for the organization. </br>
+Define appropriate tables, columns, primary and foreign keys.</br>
+Implement the schema in a database management system (e.g., MySQL, PostgreSQL).</br>
+Populate the tables with sample data and perform basic queries.</br>
+Full project:</br>
+Project Description:</br>
+As a data engineer working with Bloomberg, your task is to design a relational database schema for a specific business scenario. This involves identifying the necessary tables, columns, primary keys, and foreign keys to represent the data in a structured and efficient manner. After designing the schema, you will implement it in a database management system (e.g., MySQL, PostgreSQL), populate the tables with sample data, and perform basic queries to validate the schema.</br>
+Identify the Business Scenario:</br>
+Select a business scenario or use case that requires a database to store and manage relevant data. This can be any scenario within the scope of the company, such as an e-commerce website, a customer relationship management system, or an inventory management system.</br>
+Design the Relational Database Schema:</br>
+Based on the selected business scenario, design a relational database schema that represents the entities, relationships, and attributes of the system. Consider the following steps:</br>
+a. Identify the main entities involved in the scenario. These can be customers, products, orders, employees, etc.</br>
+b. Define the attributes for each entity. For example, a customer entity may have attributes like name, email, and address.</br>
+c. Determine the relationships between entities. For example, an order entity may be related to both the customer and product entities.</br>
+d. Assign primary keys to uniquely identify each entity. Primary keys ensure the uniqueness of records in a table.</br>
+e. Establish foreign key relationships between tables. Foreign keys maintain referential integrity and enable connections between related entities.</br>
+Implement the Schema in a Database Management System:</br>
+Choose a suitable database management system (e.g., MySQL, PostgreSQL) and implement the designed schema by creating the necessary tables, columns, primary keys, and foreign keys.</br>
+Populate the Tables with Sample Data:</br>
 Insert sample data into the tables to simulate real-world scenarios. This allows you to test the database schema and perform queries to verify its functionality.
-Perform Basic Queries:
-Write and execute basic SQL queries to retrieve, filter, and analyze data from the populated tables. This step will help validate the schema and ensure the data is stored and retrieved correctly.
-Deliverables:
-i.	Relational database schema designed for the selected business scenario.
-ii.	Implemented schema in a database management system (e.g., MySQL, PostgreSQL).
-iii.	Populated tables with sample data for testing and validation.
-iv.	Basic SQL queries performed to retrieve and analyze data.
-Objective:- By completing this project, you will have designed and implemented a relational database schema that aligns with the requirements of the selected business scenario. This will provide a solid foundation for data storage, management, and retrieval within company ABC.
+Perform Basic Queries:</br>
+Write and execute basic SQL queries to retrieve, filter, and analyze data from the populated tables. This step will help validate the schema and ensure the data is stored and retrieved correctly.</br>
+Deliverables:</br>
+i.	Relational database schema designed for the selected business scenario.</br>
+ii.	Implemented schema in a database management system (e.g., MySQL, PostgreSQL).</br>
+iii.	Populated tables with sample data for testing and validation.</br>
+iv.	Basic SQL queries performed to retrieve and analyze data.</br>
+Objective:- By completing this project, you will have designed and implemented a relational database schema that aligns with the requirements of the selected business scenario. This will provide a solid foundation for data storage, management, and retrieval within company ABC.</br>
 
-Project 4: 
+Project 4: </br>
 Project: SQL Querying and Data Manipulation
-Assume you are a data engineer working with Oracle. You are supposed to:
-Retrieve specific data from a database using SQL queries.
-Perform data manipulation tasks such as filtering, sorting, and aggregating.
-Write complex queries involving joins, subqueries, and functions.
-Document and explain the purpose and results of each query.
-Full project:
-Project Description:
-As a data engineer working with Oracle, your task is to retrieve and manipulate data from a database using SQL queries. You will perform various data manipulation tasks such as filtering, sorting, aggregating, and writing complex queries involving joins, subqueries, and functions. Throughout the project, you will document and explain the purpose and results of each query to ensure clear understanding and facilitate collaboration with other team members.
-Retrieve Specific Data from a Database:
-Write SQL queries to retrieve specific data from the database based on given criteria or business requirements. Use SELECT statements along with WHERE clauses to filter the data and retrieve only the desired records.
-Perform Data Manipulation Tasks:
-Apply various data manipulation tasks to the retrieved data. This includes tasks such as sorting the data in ascending or descending order using ORDER BY, aggregating data using functions like COUNT, SUM, AVG, and grouping data using GROUP BY. Perform these tasks to gain insights and summarize the data as required.
-Write Complex Queries:
-Write complex SQL queries involving joins, subqueries, and functions to retrieve data from multiple tables, perform advanced filtering and calculations, and solve more intricate business problems. Use JOIN statements to combine data from different tables, subqueries to retrieve data based on intermediate results, and functions to perform calculations or transformations on the data.
-Document and Explain Queries:
-For each SQL query, document its purpose and explain the expected results. Provide comments or annotations within the SQL code to make it more understandable and maintainable. This documentation will serve as a reference for future use and help other team members understand the queries.
-Deliverables:
-i.	SQL queries for retrieving specific data from the database.
-ii.	Data manipulation tasks performed, including filtering, sorting, and aggregating data.
-iii.	Complex queries involving joins, subqueries, and functions.
-iv.	Documentation and explanations of each query's purpose and results.
-Objective: By completing this project, you will have gained proficiency in SQL querying and data manipulation. These skills are essential for data engineers to effectively retrieve and manipulate data from databases, providing valuable insights and supporting data-driven decision-making within company ABC.
-Project 5: 
-Project: Data Integration and ETL
-Assume you are a data engineer working with company ABC. You are supposed to:
-Obtain data from multiple sources (e.g., CSV files, APIs, databases).
-Transform the data to a common format and structure using ETL techniques.
-Load the transformed data into a target database or data warehouse.
-Schedule and automate the ETL process using tools like Apache Airflow.
-Full project:
-Project Description:
-As a data engineer working with company ABC, your task is to obtain data from multiple sources, transform it into a common format and structure using Extract, Transform, Load (ETL) techniques, and load the transformed data into a target database or data warehouse. Additionally, you will schedule and automate the ETL process using tools like Apache Airflow to ensure regular and efficient data integration.
-Obtain Data from Multiple Sources:
-Identify and obtain data from various sources, such as CSV files, APIs, databases, or other data storage systems. Understand the structure and format of each data source to determine the appropriate methods for extraction.
-Transform Data using ETL Techniques:
-Apply ETL techniques to transform the acquired data into a common format and structure. This may involve cleaning and standardizing the data, handling missing values, normalizing or denormalizing the data, and performing any necessary data conversions or calculations.
-Load Transformed Data into a Target Database or Data Warehouse:
-Design and set up a target database or data warehouse where the transformed data will be stored. Create appropriate tables or schemas to accommodate the transformed data and establish connections to the target storage system.
-Schedule and Automate the ETL Process:
-Utilize tools like Apache Airflow to schedule and automate the ETL process. Define the workflow and dependencies between tasks to ensure the efficient execution of data extraction, transformation, and loading. Set up regular intervals or triggers to automatically initiate the ETL process and monitor its progress.
-Deliverables:
-i.	Obtained data from multiple sources.
-ii.	Transformed data into a common format and structure using ETL techniques.
-iii.	Loaded the transformed data into a target database or data warehouse.
-iv.	Scheduled and automated the ETL process using tools like Apache Airflow.
-Objective:- By completing this project, you will have gained experience in data integration and ETL processes. These skills are crucial for data engineers to effectively integrate and transform data from various sources, ensuring consistency, quality, and accessibility for analysis and decision-making within company ABC.
+Assume you are a data engineer working with Oracle. You are supposed to:</br>
+Retrieve specific data from a database using SQL queries.</br>
+Perform data manipulation tasks such as filtering, sorting, and aggregating.</br>
+Write complex queries involving joins, subqueries, and functions.</br>
+Document and explain the purpose and results of each query.</br>
+Full project:</br>
+Project Description:</br>
+As a data engineer working with Oracle, your task is to retrieve and manipulate data from a database using SQL queries. You will perform various data manipulation tasks such as filtering, sorting, aggregating, and writing complex queries involving joins, subqueries, and functions. Throughout the project, you will document and explain the purpose and results of each query to ensure clear understanding and facilitate collaboration with other team members</br>
+Retrieve Specific Data from a Database:</br>
+Write SQL queries to retrieve specific data from the database based on given criteria or business requirements. Use SELECT statements along with WHERE clauses to filter the data and retrieve only the desired records.</br>
+Perform Data Manipulation Tasks:</br>
+Apply various data manipulation tasks to the retrieved data. This includes tasks such as sorting the data in ascending or descending order using ORDER BY, aggregating data using functions like COUNT, SUM, AVG, and grouping data using GROUP BY. Perform these tasks to gain insights and summarize the data as required.</br>
+Write Complex Queries:</br>
+Write complex SQL queries involving joins, subqueries, and functions to retrieve data from multiple tables, perform advanced filtering and calculations, and solve more intricate business problems. Use JOIN statements to combine data from different tables, subqueries to retrieve data based on intermediate results, and functions to perform calculations or transformations on the data.</br>
+Document and Explain Queries:</br>
+For each SQL query, document its purpose and explain the expected results. Provide comments or annotations within the SQL code to make it more understandable and maintainable. This documentation will serve as a reference for future use and help other team members understand the queries.</br>
+Deliverables:</br>
+i.	SQL queries for retrieving specific data from the database.</br>
+ii.	Data manipulation tasks performed, including filtering, sorting, and aggregating data.</br>
+iii.	Complex queries involving joins, subqueries, and functions.</br>
+iv.	Documentation and explanations of each query's purpose and results.</br>
+Objective: By completing this project, you will have gained proficiency in SQL querying and data manipulation. These skills are essential for data engineers to effectively retrieve and manipulate data from databases, providing valuable insights and supporting data-driven decision-making within company ABC.</br>
 
-Project 6: 
-Project: Big Data Processing with Hadoop
-Assume you are a data engineer working with company ABC. You are supposed to:
-Set up a Hadoop cluster using tools like Cloudera or Hortonworks.
-Ingest and process large datasets using Hadoop's MapReduce paradigm.
-Implement basic data transformations and aggregations.
-Monitor job performance and optimize the execution for efficiency.
-Full project:
-Project Description:
-As a data engineer working with company ABC, your task is to set up a Hadoop cluster using tools like Cloudera or Hortonworks and leverage the power of Hadoop's MapReduce paradigm to ingest and process large datasets. You will also implement basic data transformations and aggregations, monitor job performance, and optimize the execution for efficiency.
-Set up a Hadoop Cluster:
-Install and configure a Hadoop cluster using tools like Cloudera or Hortonworks. Set up the necessary nodes, including NameNode, DataNode, ResourceManager, and NodeManager, to ensure the proper functioning of the cluster.
-Ingest and Process Large Datasets:
-Acquire large datasets suitable for processing with Hadoop. Use Hadoop's MapReduce paradigm to distribute the processing across the cluster. Develop MapReduce jobs to ingest and process the data in parallel, taking advantage of Hadoop's distributed computing capabilities.
-Implement Data Transformations and Aggregations:
-Apply data transformations and aggregations as required by the business scenario. Utilize Hadoop's MapReduce framework to efficiently process and analyze the data. Implement custom mappers and reducers to perform specific data operations and aggregations.
-Monitor Job Performance and Optimize Execution:
-Monitor the performance of MapReduce jobs and identify potential bottlenecks or areas for optimization. Utilize Hadoop's built-in monitoring and logging capabilities or third-party tools to track job progress, resource utilization, and data distribution. Optimize the execution by fine-tuning parameters, such as the number of mappers and reducers or block sizes, to improve overall performance and efficiency.
-Deliverables:
-A fully configured Hadoop cluster using tools like Cloudera or Hortonworks.
-Ingested and processed large datasets using Hadoop's MapReduce paradigm.
-Implemented data transformations and aggregations using custom mappers and reducers.
-Monitored job performance and optimized execution for efficiency.
-Objective:- By completing this project, you will have gained hands-on experience in setting up and working with a Hadoop cluster for big data processing. This knowledge is valuable for data engineers as it enables them to leverage the scalability and distributed computing capabilities of Hadoop to handle large-scale data processing tasks effectively within company ABC.
+Project 5: </br>
+Project: Data Integration and ETL</br>
+Assume you are a data engineer working with company ABC. You are supposed to:</br>
+Obtain data from multiple sources (e.g., CSV files, APIs, databases).</br>
+Transform the data to a common format and structure using ETL techniques.</br>
+Load the transformed data into a target database or data warehouse.</br>
+Schedule and automate the ETL process using tools like Apache Airflow.</br>
+Full project:</br>
+Project Description:</br>
+As a data engineer working with company ABC, your task is to obtain data from multiple sources, transform it into a common format and structure using Extract, Transform, Load (ETL) techniques, and load the transformed data into a target database or data warehouse. Additionally, you will schedule and automate the ETL process using tools like Apache Airflow to ensure regular and efficient data integration.</br>
+Obtain Data from Multiple Sources</br>
+Identify and obtain data from various sources, such as CSV files, APIs, databases, or other data storage systems. Understand the structure and format of each data source to determine the appropriate methods for extraction.</br>
+Transform Data using ETL Techniques:</br>
+Apply ETL techniques to transform the acquired data into a common format and structure. This may involve cleaning and standardizing the data, handling missing values, normalizing or denormalizing the data, and performing any necessary data conversions or calculations.</br>
+Load Transformed Data into a Target Database or Data Warehouse:</br>
+Design and set up a target database or data warehouse where the transformed data will be stored. Create appropriate tables or schemas to accommodate the transformed data and establish connections to the target storage system.</br>
+Schedule and Automate the ETL Process:</br>
+Utilize tools like Apache Airflow to schedule and automate the ETL process. Define the workflow and dependencies between tasks to ensure the efficient execution of data extraction, transformation, and loading. Set up regular intervals or triggers to automatically initiate the ETL process and monitor its progress.</br>
+Deliverables:</br>
+i.	Obtained data from multiple sources.</br>
+ii.	Transformed data into a common format and structure using ETL techniques.</br>
+iii.	Loaded the transformed data into a target database or data warehouse.</br>
+iv.	Scheduled and automated the ETL process using tools like Apache Airflow.</br>
+Objective:- By completing this project, you will have gained experience in data integration and ETL processes. These skills are crucial for data engineers to effectively integrate and transform data from various sources, ensuring consistency, quality, and accessibility for analysis and decision-making within company ABC.</br>
 
-Project 7: 
-Project: Streaming Data Processing with Apache Kafka
-Assume you are a data engineer working with company ABC. You are supposed to:
-Set up an Apache Kafka cluster and create topics.
-Produce streaming data to Kafka from a data source.
-Consume and process the data in real-time using Kafka consumers.
-Explore advanced features like partitions, offsets, and consumer groups.
-Full project:
-Project Description:
-As a data engineer working with company ABC, your task is to set up an Apache Kafka cluster and leverage its capabilities for streaming data processing. You will create topics, produce streaming data to Kafka from a data source, consume and process the data in real-time using Kafka consumers, and explore advanced features like partitions, offsets, and consumer groups.
-Set up an Apache Kafka Cluster:
-Install and configure an Apache Kafka cluster. Set up multiple Kafka brokers to ensure fault tolerance and high availability. Configure topics and partitions based on your business requirements.
-Create Topics and Producers:
-Create Kafka topics to organize and categorize the streaming data. Set up Kafka producers to publish data to these topics. Design the data schema and serialization/deserialization mechanisms to ensure compatibility between producers and consumers.
-Produce Streaming Data:
-Connect a data source (e.g., log files, sensor data, web events) to the Kafka cluster and configure producers to continuously stream the data to Kafka topics. Ensure data reliability and fault tolerance by setting appropriate Kafka producer configurations.
-Consume and Process Data in Real-Time:
+Project 6: </br>
+Project: Big Data Processing with Hadoop</br>
+Assume you are a data engineer working with company ABC. You are supposed to:</br>
+Set up a Hadoop cluster using tools like Cloudera or Hortonworks.</br>
+Ingest and process large datasets using Hadoop's MapReduce paradigm.</br>
+Implement basic data transformations and aggregations.</br>
+Monitor job performance and optimize the execution for efficiency.</br>
+Full project:</br>
+Project Description:</br>
+As a data engineer working with company ABC, your task is to set up a Hadoop cluster using tools like Cloudera or Hortonworks and leverage the power of Hadoop's MapReduce paradigm to ingest and process large datasets. You will also implement basic data transformations and aggregations, monitor job performance, and optimize the execution for efficiency.</br>
+Set up a Hadoop Cluster:</br>
+Install and configure a Hadoop cluster using tools like Cloudera or Hortonworks. Set up the necessary nodes, including NameNode, DataNode, ResourceManager, and NodeManager, to ensure the proper functioning of the cluster.</br>
+Ingest and Process Large Datasets:</br>
+Acquire large datasets suitable for processing with Hadoop. Use Hadoop's MapReduce paradigm to distribute the processing across the cluster. Develop MapReduce jobs to ingest and process the data in parallel, taking advantage of Hadoop's distributed computing capabilities.</br>
+Implement Data Transformations and Aggregations:</br>
+Apply data transformations and aggregations as required by the business scenario. Utilize Hadoop's MapReduce framework to efficiently process and analyze the data. Implement custom mappers and reducers to perform specific data operations and aggregations.</br>
+Monitor Job Performance and Optimize Execution:</br>
+Monitor the performance of MapReduce jobs and identify potential bottlenecks or areas for optimization. Utilize Hadoop's built-in monitoring and logging capabilities or third-party tools to track job progress, resource utilization, and data distribution. Optimize the execution by fine-tuning parameters, such as the number of mappers and reducers or block sizes, to improve overall performance and efficiency.</br>
+Deliverables:</br>
+A fully configured Hadoop cluster using tools like Cloudera or Hortonworks.</br>
+Ingested and processed large datasets using Hadoop's MapReduce paradigm.</br>
+Implemented data transformations and aggregations using custom mappers and reducers.</br>
+Monitored job performance and optimized execution for efficiency.</br>
+Objective:- By completing this project, you will have gained hands-on experience in setting up and working with a Hadoop cluster for big data processing. This knowledge is valuable for data engineers as it enables them to leverage the scalability and distributed computing capabilities of Hadoop to handle large-scale data processing tasks effectively within company ABC.</br>
+
+Project 7: </br>
+Project: Streaming Data Processing with Apache Kafka</br>
+Assume you are a data engineer working with company ABC. You are supposed to:</br>
+Set up an Apache Kafka cluster and create topics.</br>
+Produce streaming data to Kafka from a data source.</br>
+Consume and process the data in real-time using Kafka consumers.</br>
+Explore advanced features like partitions, offsets, and consumer groups.</br>
+Full project:</br>
+Project Description:</br>
+As a data engineer working with company ABC, your task is to set up an Apache Kafka cluster and leverage its capabilities for streaming data processing. You will create topics, produce streaming data to Kafka from a data source, consume and process the data in real-time using Kafka consumers, and explore advanced features like partitions, offsets, and consumer groups.</br>
+Set up an Apache Kafka Cluster:</br>
+Install and configure an Apache Kafka cluster. Set up multiple Kafka brokers to ensure fault tolerance and high availability. Configure topics and partitions based on your business requirements.</br>
+Create Topics and Producers:</br>
+Create Kafka topics to organize and categorize the streaming data. Set up Kafka producers to publish data to these topics. Design the data schema and serialization/deserialization mechanisms to ensure compatibility between producers and consumers.</br>
+Produce Streaming Data:</br>
+Connect a data source (e.g., log files, sensor data, web events) to the Kafka cluster and configure producers to continuously stream the data to Kafka topics. Ensure data reliability and fault tolerance by setting appropriate Kafka producer configurations.</br>
+Consume and Process Data in Real-Time</br>
 Implement Kafka consumers to subscribe to specific topics and consume streaming data in real-time. Develop data processing logic within the consumers to perform transformations, aggregations, or analytics on the data as it arrives. Use Kafka's consumer APIs to handle offset management and ensure data consistency.
-Explore Advanced Features:
+Explore Advanced Features:</br>
 Dive into advanced features of Apache Kafka, such as partitions, offsets, and consumer groups. Experiment with different partitioning strategies to optimize data distribution and parallel processing. Use consumer groups to scale out the consumption and processing of data across multiple consumers.
-Deliverables:
-A fully configured Apache Kafka cluster with multiple brokers.
-Topics created and configured based on business requirements.
-Producers set up to continuously stream data to Kafka topics.
-Consumers developed to consume and process streaming data in real-time.
-Exploration of advanced features like partitions, offsets, and consumer groups.
-By completing this project, you will have gained hands-on experience in setting up and working with an Apache Kafka cluster for streaming data processing. This knowledge is valuable for data engineers as it enables them to handle real-time data streams efficiently within company ABC, leveraging the scalability and fault tolerance provided by Apache Kafka.
-Project 7: 
-Project: Data Warehousing with Amazon Redshift 
-Assume you are a data engineer working with company ABC. You are supposed to:
-Create a data warehouse in Amazon Redshift.
-Design a star schema for a specific business scenario.
-Extract data from different sources and load it into Redshift tables.
-Optimize query performance by choosing the right sort and distribution keys.
-Full project:
-Project 7: Data Warehousing with Amazon Redshift
-Project Description:
+Deliverables:</br>
+A fully configured Apache Kafka cluster with multiple brokers.</br>
+Topics created and configured based on business requirements.</br>
+Producers set up to continuously stream data to Kafka topics.</br>
+Consumers developed to consume and process streaming data in real-time.</br>
+Exploration of advanced features like partitions, offsets, and consumer groups.</br>
+By completing this project, you will have gained hands-on experience in setting up and working with an Apache Kafka cluster for streaming data processing. This knowledge is valuable for data engineers as it enables them to handle real-time data streams efficiently within company ABC, leveraging the scalability and fault tolerance provided by Apache Kafka.</br>
+
+Project 7: </br>
+Project: Data Warehousing with Amazon Redshift </br>
+Assume you are a data engineer working with company ABC. You are supposed to:</br>
+Create a data warehouse in Amazon Redshift.</br>
+Design a star schema for a specific business scenario.</br>
+Extract data from different sources and load it into Redshift tables.</br>
+Optimize query performance by choosing the right sort and distribution keys.</br>
+Full project:</br>
+
+
+Project 7: Data Warehousing with Amazon Redshift</br>
+Project Description:</br>
 As a data engineer working with company ABC, your task is to create a data warehouse in Amazon Redshift and design a star schema for a specific business scenario. You will extract data from different sources and load it into Redshift tables, optimizing query performance by choosing the right sort and distribution keys.
-Create a Data Warehouse in Amazon Redshift:
-Set up an Amazon Redshift cluster in the AWS cloud. Configure the cluster based on your performance and storage requirements. Ensure appropriate security measures are in place to protect sensitive data.
-Design a Star Schema:
+Create a Data Warehouse in Amazon Redshift:</br>
+Set up an Amazon Redshift cluster in the AWS cloud. Configure the cluster based on your performance and storage requirements. Ensure appropriate security measures are in place to protect sensitive data.</br>
+Design a Star Schema:</br>
 Identify a specific business scenario or use case that requires data warehousing. Design a star schema that represents the business entities and their relationships. Define fact tables to store the main business metrics and dimension tables to provide context and additional details.
-Extract and Load Data:
+Extract and Load Data:</br>
 Identify relevant data sources for your business scenario. Extract data from these sources using appropriate tools or ETL processes. Transform the data, if necessary, to match the target schema and load it into the Redshift tables. Ensure data integrity and consistency during the loading process.
-Optimize Query Performance:
-Analyze the query patterns and requirements of the business scenario. Choose the appropriate sort and distribution keys for the Redshift tables to optimize query performance. Sort keys determine the physical order of the data within each table, while distribution keys determine how the data is distributed across the Redshift cluster nodes.
-Deliverables:
-	A fully configured Amazon Redshift cluster.
-	A star schema designed for the specific business scenario.
-	Extracted and transformed data loaded into the Redshift tables.
-	Query performance optimized through the selection of sort and distribution keys.
-Objective:- By completing this project, you will have hands-on experience in creating a data warehouse using Amazon Redshift and designing a star schema for efficient data querying. This knowledge will enable you to leverage the power of Redshift to store and analyze large volumes of data for company ABC, providing valuable insights and supporting data-driven decision-making.
-Day 8: Building Data Pipelines with Apache Spark
-Assume you are a data engineer working with company ABC. You are supposed to:
-Install and configure Apache Spark on a local or cloud environment.
-Build a data pipeline using Spark's DataFrame API or Spark SQL.
-Perform data transformations, filtering, and aggregations.
-Execute the pipeline and analyze the results.
-Full project:
-Day 9: Real-time Data Analytics with Apache Flink
-Assume you are a data engineer working with company ABC. You are supposed to:
-Set up an Apache Flink cluster and create a streaming job.
-Define data sources and sinks for real-time data ingestion.
-Implement windowing and aggregation operations on streaming data.
-Monitor job performance and troubleshoot issues.
-Full project:
-Day 10: Cloud Data Integration with AWS Glue
-Assume you are a data engineer working with company ABC. You are supposed to:
-Use AWS Glue to crawl and catalog various data sources.
-Create an ETL job to extract, transform, and load data into a target.
-Schedule the ETL job to run at specific intervals automatically.
-Monitor the Glue job and analyze the transformed data.
-Full project:
-Day 11: Data Quality Assessment and Monitoring
-Assume you are a data engineer working with company ABC. You are supposed to:
-Define data quality metrics for a given dataset or data source.
-Implement data quality checks to identify issues or anomalies.
-Monitor data quality over time and generate reports or alerts.
-Develop processes to improve and maintain data quality standards.
-Full project:
-Day 12: Data Visualization and Dashboarding
-Assume you are a data engineer working with company ABC. You are supposed to:
-Select a data visualization tool like Tableau or Power BI.
-Connect to a dataset or data source and import the data.
-Design interactive dashboards and visualizations.
-Publish and share the dashboards with stakeholders.
-Full project:
-Day 13: Building a Data Lake with AWS S3 and Athena
-Assume you are a data engineer working with company ABC. You are supposed to:
-Create a data lake architecture using AWS S3 as the storage layer.
-Ingest various data formats into the data lake (e.g., CSV, JSON, Parquet).
-Define partitions and optimize data organization in S3.
-Query the data using AWS Athena and analyze the results.
-Full project:
-Day 14: Data Cataloging and Metadata Management
-Assume you are a data engineer working with company ABC. You are supposed to:
-Set up a data catalog system like Apache Atlas or Collibra.
-Catalog and document various data assets within the organization.
-Capture metadata attributes and establish data lineage.
-Implement data governance policies and access controls.
-Full project:
-Day 15: Data Security and Compliance
-Assume you are a data engineer working with company ABC. You are supposed to:
-Identify potential security risks and vulnerabilities in data systems.
-Implement security measures like encryption, access controls, and auditing.
-Ensure compliance with data protection regulations (e.g., GDPR, CCPA).
-Conduct security audits and address any identified issues.
-Full project:
+Optimize Query Performance:</br>
+Analyze the query patterns and requirements of the business scenario. Choose the appropriate sort and distribution keys for the Redshift tables to optimize query performance. Sort keys determine the physical order of the data within each table, while distribution keys determine how the data is distributed across the Redshift cluster nodes.</br>
+Deliverables:</br>
+	A fully configured Amazon Redshift cluster.</br>
+	A star schema designed for the specific business scenario.</br>
+	Extracted and transformed data loaded into the Redshift tables.</br>
+	Query performance optimized through the selection of sort and distribution keys.</br>
+Objective:- By completing this project, you will have hands-on experience in creating a data warehouse using Amazon Redshift and designing a star schema for efficient data querying. This knowledge will enable you to leverage the power of Redshift to store and analyze large volumes of data for company ABC, providing valuable insights and supporting data-driven decision-making.</br>
+
+
+Day 8: Building Data Pipelines with Apache Spark</br>
+Assume you are a data engineer working with company ABC. You are supposed to:</br>
+Install and configure Apache Spark on a local or cloud environment.</br>
+Build a data pipeline using Spark's DataFrame API or Spark SQL.</br>
+Perform data transformations, filtering, and aggregations.</br>
+Execute the pipeline and analyze the results.</br>
+Full project:</br>
+
+
+Day 9: Real-time Data Analytics with Apache Flink</br>
+Assume you are a data engineer working with company ABC. You are supposed to:</br>
+Set up an Apache Flink cluster and create a streaming job.</br>
+Define data sources and sinks for real-time data ingestion.</br>
+Implement windowing and aggregation operations on streaming data.</br>
+Monitor job performance and troubleshoot issues.</br>
+Full project:</br>
+
+Day 10: Cloud Data Integration with AWS Glue</br>
+Assume you are a data engineer working with company ABC. You are supposed to:</br>
+Use AWS Glue to crawl and catalog various data sources.</br>
+Create an ETL job to extract, transform, and load data into a target.</br>
+Schedule the ETL job to run at specific intervals automatically.</br>
+Monitor the Glue job and analyze the transformed data.</br>
+Full project:</br>
+
+Day 11: Data Quality Assessment and Monitoring</br>
+Assume you are a data engineer working with company ABC. You are supposed to:</br>
+Define data quality metrics for a given dataset or data source.</br>
+Implement data quality checks to identify issues or anomalies.</br>
+Monitor data quality over time and generate reports or alerts.</br>
+Develop processes to improve and maintain data quality standards.</br>
+Full project:</br>
+
+
+Day 12: Data Visualization and Dashboarding</br>
+Assume you are a data engineer working with company ABC. You are supposed to:</br>
+Select a data visualization tool like Tableau or Power BI.</br>
+Connect to a dataset or data source and import the data.</br>
+Design interactive dashboards and visualizations.</br>
+Publish and share the dashboards with stakeholders.</br>
+Full project:</br>
+
+Day 13: Building a Data Lake with AWS S3 and Athena</br>
+Assume you are a data engineer working with company ABC. You are supposed to:</br>
+Create a data lake architecture using AWS S3 as the storage layer.</br>
+Ingest various data formats into the data lake (e.g., CSV, JSON, Parquet).</br>
+Define partitions and optimize data organization in S3.</br>
+Query the data using AWS Athena and analyze the results.</br>
+Full project:</br>
+
+Day 14: Data Cataloging and Metadata Management</br>
+Assume you are a data engineer working with company ABC. You are supposed to:</br>
+Set up a data catalog system like Apache Atlas or Collibra.</br>
+Catalog and document various data assets within the organization.</br>
+Capture metadata attributes and establish data lineage.</br>
+Implement data governance policies and access controls.</br>
+Full project:</br>
+
+Day 15: Data Security and Compliance</br>
+Assume you are a data engineer working with company ABC. You are supposed to:</br>
+Identify potential security risks and vulnerabilities in data systems.</br>
+Implement security measures like encryption, access controls, and auditing.</br>
+Ensure compliance with data protection regulations (e.g., GDPR, CCPA).</br>
+Conduct security audits and address any identified issues.</br>
+Full project:</br>
+
+
 Day 16: Data Streaming with Apache NiFi
 Assume you are a data engineer working with company ABC. You are supposed to:
 Install and configure Apache NiFi for data ingestion and routing.
