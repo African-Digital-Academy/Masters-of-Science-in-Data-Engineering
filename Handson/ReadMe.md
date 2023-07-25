@@ -1,92 +1,93 @@
-Masters of Science in Data Engineering,
-African Digital University, Open Campus
-HANDS ON PROJECTS
-Project 1:
-Project: Building a Data Warehouse with Amazon Redshift
-Scenario:
-Assume you are a data engineer working with Amazon, a retail e-commerce company. The company wants to build a scalable data warehouse to store and analyze their transactional and customer data. As part of the project, you need to set up an Amazon Redshift cluster and design and implement an ETL pipeline to load data into the data warehouse. Here are the tasks involved:
-Task: Set up an Amazon Redshift Cluster
-Create an AWS account and set up the necessary permissions and roles.
-Provision an Amazon Redshift cluster with the desired specifications (e.g., node type, number of nodes).
-Configure security groups, VPC settings, and other network configurations.
-Connect to the Amazon Redshift cluster using a SQL client.
-Task: Design the Data Warehouse Schema
-Analyze the data sources and define the data warehouse schema based on the company's reporting and analytics requirements.
-Determine the tables, columns, primary keys, foreign keys, and relationships in the data warehouse schema.
-Normalize or denormalize the schema based on performance considerations and query patterns.
-Task: Extract, Transform, and Load (ETL) Data into Redshift
-Identify the data sources (e.g., transactional databases, log files, external APIs) and establish connectivity.
-Extract data from the sources using appropriate techniques (e.g., SQL queries, API calls, file ingestion).
-Perform data transformations to clean, validate, and format the data for the target schema.
-Load the transformed data into the corresponding tables in the Redshift cluster.
-Task: Implement Incremental Loading
-Design a mechanism to identify and load only the new or modified data from the source systems since the last data load.
-Implement change data capture (CDC) techniques or use timestamp-based or versioning approaches for incremental loading.
-Schedule and automate the incremental data loading process to ensure regular updates to the data warehouse.
-Task: Optimize Query Performance
-Analyze the query patterns and performance requirements of the reporting and analytics use cases.
-Create appropriate distribution and sort keys on the Redshift tables to optimize query performance.
-Use compression techniques to reduce data storage and improve query execution time.
-Fine-tune the Redshift cluster parameters, such as query concurrency, memory allocation, and workload management settings.
-Task: Implement Data Quality Checks
-Define and implement data quality rules and validation checks to ensure the accuracy and integrity of the loaded data.
-Perform data profiling and anomaly detection to identify data quality issues.
-Develop automated processes to monitor and flag data quality issues and trigger notifications for data remediation.
-Task: Implement Data Retention and Archiving
-Define data retention policies based on regulatory requirements and business needs.
-Design and implement mechanisms to archive or delete obsolete or historical data from the data warehouse.
-Develop processes for data archiving, backup, and disaster recovery to ensure data availability and resilience.
-Task: Build Data Access and Reporting Tools
-Create SQL queries, views, and stored procedures to facilitate data access and reporting.
-Develop dashboards, visualizations, or reporting tools to enable business users to analyze and derive insights from the data warehouse.
-Implement role-based access controls (RBAC) to manage data access and security.
-Task: Monitor and Optimize the Data Warehouse
-Set up monitoring and logging mechanisms to track the performance, usage, and health of the data warehouse.
-Configure alerts and notifications for critical events (e.g., high query latency, storage space utilization).
-Continuously analyze and optimize the data warehouse performance by identifying bottlenecks and making necessary adjustments.
-Task: Document the Data Warehouse Architecture and Processes
-Prepare comprehensive documentation describing the data warehouse architecture, schema design, ETL processes, and data flow.
-Document the data sources, transformation logic, and data lineage to ensure transparency and ease of maintenance.
-Create user guides and training materials for data analysts, business users, and other stakeholders.
+Masters of Science in Data Engineering,</br>
+African Digital University, Open Campus</br>
+HANDS ON PROJECTS</br>
+Project 1:</br>
+Project: Building a Data Warehouse with Amazon Redshift</br>
+Scenario:</br>
+Assume you are a data engineer working with Amazon, a retail e-commerce company. The company wants to build a scalable data warehouse to store and analyze their transactional and customer data. As part of the project, you need to set up an Amazon Redshift cluster and design and implement an ETL pipeline to load data into the data warehouse. </br>
+Here are the tasks involved:</br>
+Task: Set up an Amazon Redshift Cluster</br>
+Create an AWS account and set up the necessary permissions and roles.</br>
+Provision an Amazon Redshift cluster with the desired specifications (e.g., node type, number of nodes).</br>
+Configure security groups, VPC settings, and other network configurations.</br>
+Connect to the Amazon Redshift cluster using a SQL client.</br>
+Task: Design the Data Warehouse Schema</br>
+Analyze the data sources and define the data warehouse schema based on the company's reporting and analytics requirements.</br>
+Determine the tables, columns, primary keys, foreign keys, and relationships in the data warehouse schema.</br>
+Normalize or denormalize the schema based on performance considerations and query patterns.</br>
+Task: Extract, Transform, and Load (ETL) Data into Redshift</br>
+Identify the data sources (e.g., transactional databases, log files, external APIs) and establish connectivity.</br>
+Extract data from the sources using appropriate techniques (e.g., SQL queries, API calls, file ingestion).</br>
+Perform data transformations to clean, validate, and format the data for the target schema.</br>
+Load the transformed data into the corresponding tables in the Redshift cluster.</br>
+Task: Implement Incremental Loading</br>
+Design a mechanism to identify and load only the new or modified data from the source systems since the last data load.</br>
+Implement change data capture (CDC) techniques or use timestamp-based or versioning approaches for incremental loading.</br>
+Schedule and automate the incremental data loading process to ensure regular updates to the data warehouse.</br>
+Task: Optimize Query Performance</br>
+Analyze the query patterns and performance requirements of the reporting and analytics use cases.</br>
+Create appropriate distribution and sort keys on the Redshift tables to optimize query performance.</br>
+Use compression techniques to reduce data storage and improve query execution time.</br>
+Fine-tune the Redshift cluster parameters, such as query concurrency, memory allocation, and workload management settings.</br>
+Task: Implement Data Quality Checks</br>
+Define and implement data quality rules and validation checks to ensure the accuracy and integrity of the loaded data.</br>
+Perform data profiling and anomaly detection to identify data quality issues.</br>
+Develop automated processes to monitor and flag data quality issues and trigger notifications for data remediation.</br>
+Task: Implement Data Retention and Archiving</br>
+Define data retention policies based on regulatory requirements and business needs.</br>
+Design and implement mechanisms to archive or delete obsolete or historical data from the data warehouse.</br>
+Develop processes for data archiving, backup, and disaster recovery to ensure data availability and resilience.</br>
+Task: Build Data Access and Reporting Tools</br>
+Create SQL queries, views, and stored procedures to facilitate data access and reporting.</br>
+Develop dashboards, visualizations, or reporting tools to enable business users to analyze and derive insights from the data warehouse.</br>
+Implement role-based access controls (RBAC) to manage data access and security.</br>
+Task: Monitor and Optimize the Data Warehouse</br>
+Set up monitoring and logging mechanisms to track the performance, usage, and health of the data warehouse.</br>
+Configure alerts and notifications for critical events (e.g., high query latency, storage space utilization).</br>
+Continuously analyze and optimize the data warehouse performance by identifying bottlenecks and making necessary adjustments.</br>
+Task: Document the Data Warehouse Architecture and Processes</br>
+Prepare comprehensive documentation describing the data warehouse architecture, schema design, ETL processes, and data flow.</br>
+Document the data sources, transformation logic, and data lineage to ensure transparency and ease of maintenance.</br>
+Create user guides and training materials for data analysts, business users, and other stakeholders.</br>
 
-Project 2: 
-Project: Data Exploration and Cleaning
-Assume you are a data engineer working with Netflix. You are supposed to:
-Acquire a dataset of your choice (e.g., CSV, JSON, Excel).
-Explore the dataset to understand its structure and contents.
-Clean the data by handling missing values, duplicates, and outliers.
-Document your findings and the steps taken to clean the data.
-Full project:
-Project Description:
-As a data engineer working with Netflix, your task is to acquire a dataset of your choice and perform data exploration and cleaning to ensure the dataset is suitable for analysis and processing. The goal is to understand the structure and contents of the dataset, handle missing values, duplicates, and outliers, and document the steps taken to clean the data.
-Acquire the Dataset:
-Choose a dataset that aligns with the objectives of the project. The dataset can be in various formats such as CSV, JSON, Excel, or any other commonly used format. Ensure that the dataset contains sufficient data points to perform meaningful analysis.
-Explore the Dataset:
-Start by exploring the dataset to gain an understanding of its structure and contents. This includes:
-a. Checking the dimensions of the dataset (number of rows and columns).
-b. Examining the column names and their meanings.
-c. Reviewing the data types of each column (e.g., numerical, categorical, date).
-d. Analyzing the summary statistics of numerical columns (e.g., mean, median, min, max).
-e. Identifying any potential data quality issues or inconsistencies.
-Handle Missing Values:
-Missing values can affect the accuracy of analysis and modeling. Address missing values by:
-a. Identifying columns with missing values and understanding the reasons for their absence.
-b. Deciding on an appropriate strategy to handle missing values based on the nature of the data and the analysis goals. Common approaches include:
-Removing rows or columns with a high percentage of missing values.
-Imputing missing values using techniques such as mean, median, mode, or advanced imputation methods.
-Deal with Duplicates:
-Duplicate records can skew analysis results and lead to biased conclusions. Handle duplicates by:
-a. Identifying duplicate records based on key columns or a combination of columns.
-b. Deciding on a strategy to handle duplicates, such as removing duplicates or aggregating duplicate records if necessary.
-Address Outliers:
-Outliers can significantly impact statistical analysis and modeling. Take steps to address outliers by:
-a. Identifying numerical columns where outliers may exist.
-b. Understanding the context of the data and the potential reasons for outliers.
-c. Deciding on an appropriate approach to address outliers, such as capping/extending values or using statistical techniques.
-Document the Findings and Data Cleaning Steps:
-Document your observations, insights, and the steps taken to clean the data. This documentation is essential for reproducibility, transparency, and collaboration with other stakeholders. Include details about the data exploration process, identified issues, and the methods used to clean the data.
-Deliverables:
-i.	Acquired dataset suitable for analysis.
+Project 2: </br>
+Project: Data Exploration and Cleaning</br>
+Assume you are a data engineer working with Netflix. You are supposed to:</br>
+Acquire a dataset of your choice (e.g., CSV, JSON, Excel).</br>
+Explore the dataset to understand its structure and contents.</br>
+Clean the data by handling missing values, duplicates, and outliers.</br>
+Document your findings and the steps taken to clean the data.</br>
+Full project:</br>
+Project Description:</br>
+As a data engineer working with Netflix, your task is to acquire a dataset of your choice and perform data exploration and cleaning to ensure the dataset is suitable for analysis and processing. The goal is to understand the structure and contents of the dataset, handle missing values, duplicates, and outliers, and document the steps taken to clean the data.</br>
+Acquire the Dataset:</br>
+Choose a dataset that aligns with the objectives of the project. The dataset can be in various formats such as CSV, JSON, Excel, or any other commonly used format. Ensure that the dataset contains sufficient data points to perform meaningful analysis.</br>
+Explore the Dataset:</br>
+Start by exploring the dataset to gain an understanding of its structure and contents. This includes:</br>
+a. Checking the dimensions of the dataset (number of rows and columns).</br>
+b. Examining the column names and their meanings.</br>
+c. Reviewing the data types of each column (e.g., numerical, categorical, date).</br>
+d. Analyzing the summary statistics of numerical columns (e.g., mean, median, min, max).</br>
+e. Identifying any potential data quality issues or inconsistencies.</br>
+Handle Missing Values:</br>
+Missing values can affect the accuracy of analysis and modeling. Address missing values by:</br>
+a. Identifying columns with missing values and understanding the reasons for their absence.</br>
+b. Deciding on an appropriate strategy to handle missing values based on the nature of the data and the analysis goals. Common approaches include:</br>
+Removing rows or columns with a high percentage of missing values.</br>
+Imputing missing values using techniques such as mean, median, mode, or advanced imputation methods.</br>
+Deal with Duplicates:</br>
+Duplicate records can skew analysis results and lead to biased conclusions. Handle duplicates by:</br>
+a. Identifying duplicate records based on key columns or a combination of columns.</br>
+b. Deciding on a strategy to handle duplicates, such as removing duplicates or aggregating duplicate records if necessary.</br>
+Address Outliers:</br>
+Outliers can significantly impact statistical analysis and modeling. Take steps to address outliers by:</br>
+a. Identifying numerical columns where outliers may exist.</br>
+b. Understanding the context of the data and the potential reasons for outliers.</br>
+c. Deciding on an appropriate approach to address outliers, such as capping/extending values or using statistical techniques.</br>
+Document the Findings and Data Cleaning Steps:</br>
+Document your observations, insights, and the steps taken to clean the data. This documentation is essential for reproducibility, transparency, and collaboration with other stakeholders. Include details about the data exploration process, identified issues, and the methods used to clean the data.</br>
+Deliverables:</br>
+i.	Acquired dataset suitable for analysis.</br>
 ii.	Explored dataset with a clear understanding of its structure and contents.
 iii.	Cleaned dataset with missing values, duplicates, and outliers addressed.
 iv.	Documented findings and steps taken to clean the data.
