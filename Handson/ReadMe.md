@@ -53,7 +53,7 @@ Prepare comprehensive documentation describing the data warehouse architecture, 
 Document the data sources, transformation logic, and data lineage to ensure transparency and ease of maintenance.</br>
 Create user guides and training materials for data analysts, business users, and other stakeholders.</br>
 
-Project 2: </br>
+<p>Project 2: </br></p>
 Project: Data Exploration and Cleaning</br>
 Assume you are a data engineer working with Netflix. You are supposed to:</br>
 Acquire a dataset of your choice (e.g., CSV, JSON, Excel).</br>
@@ -96,7 +96,7 @@ iii.	Cleaned dataset with missing values, duplicates, and outliers addressed.</b
 iv.	Documented findings and steps taken to clean the data.</br>
 Objective:- By completing this project, you will ensure that the dataset is prepared for further analysis, modeling, or any other data-related tasks within company ABC.</br>
 
-Project 3: </br>
+<p>Project 3: </br></p>
 Project: Database Design and Modeling</br>
 Assume you are a data engineer working with Bloomberg. You are supposed to:</br>
 Identify a business scenario and design a relational database schema for the organization. </br>
@@ -128,7 +128,7 @@ iii.	Populated tables with sample data for testing and validation.</br>
 iv.	Basic SQL queries performed to retrieve and analyze data.</br>
 Objective:- By completing this project, you will have designed and implemented a relational database schema that aligns with the requirements of the selected business scenario. This will provide a solid foundation for data storage, management, and retrieval within company ABC.</br>
 
-Project 4: </br>
+<p>Project 4: </br></p>
 Project: SQL Querying and Data Manipulation
 Assume you are a data engineer working with Oracle. You are supposed to:</br>
 Retrieve specific data from a database using SQL queries.</br>
@@ -153,7 +153,7 @@ iii.	Complex queries involving joins, subqueries, and functions.</br>
 iv.	Documentation and explanations of each query's purpose and results.</br>
 Objective: By completing this project, you will have gained proficiency in SQL querying and data manipulation. These skills are essential for data engineers to effectively retrieve and manipulate data from databases, providing valuable insights and supporting data-driven decision-making within company ABC.</br>
 
-Project 5: </br>
+<p>Project 5: </br></p>
 Project: Data Integration and ETL</br>
 Assume you are a data engineer working with company ABC. You are supposed to:</br>
 Obtain data from multiple sources (e.g., CSV files, APIs, databases).</br>
@@ -178,7 +178,7 @@ iii.	Loaded the transformed data into a target database or data warehouse.</br>
 iv.	Scheduled and automated the ETL process using tools like Apache Airflow.</br>
 Objective:- By completing this project, you will have gained experience in data integration and ETL processes. These skills are crucial for data engineers to effectively integrate and transform data from various sources, ensuring consistency, quality, and accessibility for analysis and decision-making within company ABC.</br>
 
-Project 6: </br>
+<p>Project 6: </br></p>
 Project: Big Data Processing with Hadoop</br>
 Assume you are a data engineer working with company ABC. You are supposed to:</br>
 Set up a Hadoop cluster using tools like Cloudera or Hortonworks.</br>
@@ -203,7 +203,7 @@ Implemented data transformations and aggregations using custom mappers and reduc
 Monitored job performance and optimized execution for efficiency.</br>
 Objective:- By completing this project, you will have gained hands-on experience in setting up and working with a Hadoop cluster for big data processing. This knowledge is valuable for data engineers as it enables them to leverage the scalability and distributed computing capabilities of Hadoop to handle large-scale data processing tasks effectively within company ABC.</br>
 
-Project 7: </br>
+<p>Project 7: </br></p>
 Project: Streaming Data Processing with Apache Kafka</br>
 Assume you are a data engineer working with company ABC. You are supposed to:</br>
 Set up an Apache Kafka cluster and create topics.</br>
@@ -231,7 +231,7 @@ Consumers developed to consume and process streaming data in real-time.</br>
 Exploration of advanced features like partitions, offsets, and consumer groups.</br>
 By completing this project, you will have gained hands-on experience in setting up and working with an Apache Kafka cluster for streaming data processing. This knowledge is valuable for data engineers as it enables them to handle real-time data streams efficiently within company ABC, leveraging the scalability and fault tolerance provided by Apache Kafka.</br>
 
-Project 7: </br>
+<p>Project 7: </br></p>
 Project: Data Warehousing with Amazon Redshift </br>
 Assume you are a data engineer working with company ABC. You are supposed to:</br>
 Create a data warehouse in Amazon Redshift.</br>
@@ -241,7 +241,7 @@ Optimize query performance by choosing the right sort and distribution keys.</br
 Full project:</br>
 
 
-Project 7: Data Warehousing with Amazon Redshift</br>
+<p>Project 7: Data Warehousing with Amazon Redshift</br></p>
 Project Description:</br>
 As a data engineer working with company ABC, your task is to create a data warehouse in Amazon Redshift and design a star schema for a specific business scenario. You will extract data from different sources and load it into Redshift tables, optimizing query performance by choosing the right sort and distribution keys.
 Create a Data Warehouse in Amazon Redshift:</br>
@@ -260,7 +260,7 @@ Deliverables:</br>
 Objective:- By completing this project, you will have hands-on experience in creating a data warehouse using Amazon Redshift and designing a star schema for efficient data querying. This knowledge will enable you to leverage the power of Redshift to store and analyze large volumes of data for company ABC, providing valuable insights and supporting data-driven decision-making.</br>
 
 
-Day 8: Building Data Pipelines with Apache Spark</br>
+<p>Day 8: Building Data Pipelines with Apache Spark</br></p>
 Assume you are a data engineer working with company ABC. You are supposed to:</br>
 Install and configure Apache Spark on a local or cloud environment.</br>
 Build a data pipeline using Spark's DataFrame API or Spark SQL.</br>
@@ -269,7 +269,7 @@ Execute the pipeline and analyze the results.</br>
 Full project:</br>
 
 
-Day 9: Real-time Data Analytics with Apache Flink</br>
+<p>Day 9: Real-time Data Analytics with Apache Flink</br></p>
 Assume you are a data engineer working with company ABC. You are supposed to:</br>
 Set up an Apache Flink cluster and create a streaming job.</br>
 Define data sources and sinks for real-time data ingestion.</br>
@@ -277,7 +277,7 @@ Implement windowing and aggregation operations on streaming data.</br>
 Monitor job performance and troubleshoot issues.</br>
 Full project:</br>
 
-Day 10: Cloud Data Integration with AWS Glue</br>
+<p>Day 10: Cloud Data Integration with AWS Glue</br></p>
 Assume you are a data engineer working with company ABC. You are supposed to:</br>
 Use AWS Glue to crawl and catalog various data sources.</br>
 Create an ETL job to extract, transform, and load data into a target.</br>
@@ -285,7 +285,7 @@ Schedule the ETL job to run at specific intervals automatically.</br>
 Monitor the Glue job and analyze the transformed data.</br>
 Full project:</br>
 
-Day 11: Data Quality Assessment and Monitoring</br>
+<p>Day 11: Data Quality Assessment and Monitoring</br></p>
 Assume you are a data engineer working with company ABC. You are supposed to:</br>
 Define data quality metrics for a given dataset or data source.</br>
 Implement data quality checks to identify issues or anomalies.</br>
@@ -294,7 +294,7 @@ Develop processes to improve and maintain data quality standards.</br>
 Full project:</br>
 
 
-Day 12: Data Visualization and Dashboarding</br>
+<p>Day 12: Data Visualization and Dashboarding</br></p>
 Assume you are a data engineer working with company ABC. You are supposed to:</br>
 Select a data visualization tool like Tableau or Power BI.</br>
 Connect to a dataset or data source and import the data.</br>
@@ -302,7 +302,7 @@ Design interactive dashboards and visualizations.</br>
 Publish and share the dashboards with stakeholders.</br>
 Full project:</br>
 
-Day 13: Building a Data Lake with AWS S3 and Athena</br>
+<p>Day 13: Building a Data Lake with AWS S3 and Athena</br></p>
 Assume you are a data engineer working with company ABC. You are supposed to:</br>
 Create a data lake architecture using AWS S3 as the storage layer.</br>
 Ingest various data formats into the data lake (e.g., CSV, JSON, Parquet).</br>
@@ -310,7 +310,7 @@ Define partitions and optimize data organization in S3.</br>
 Query the data using AWS Athena and analyze the results.</br>
 Full project:</br>
 
-Day 14: Data Cataloging and Metadata Management</br>
+<p>Day 14: Data Cataloging and Metadata Management</br></p>
 Assume you are a data engineer working with company ABC. You are supposed to:</br>
 Set up a data catalog system like Apache Atlas or Collibra.</br>
 Catalog and document various data assets within the organization.</br>
@@ -318,7 +318,7 @@ Capture metadata attributes and establish data lineage.</br>
 Implement data governance policies and access controls.</br>
 Full project:</br>
 
-Day 15: Data Security and Compliance</br>
+<p>Day 15: Data Security and Compliance</br></p>
 Assume you are a data engineer working with company ABC. You are supposed to:</br>
 Identify potential security risks and vulnerabilities in data systems.</br>
 Implement security measures like encryption, access controls, and auditing.</br>
@@ -327,14 +327,16 @@ Conduct security audits and address any identified issues.</br>
 Full project:</br>
 
 
-Day 16: Data Streaming with Apache NiFi
+<p>Day 16: Data Streaming with Apache NiFi</p>
 Assume you are a data engineer working with company ABC. You are supposed to:
 Install and configure Apache NiFi for data ingestion and routing.
 Create data flows to collect and process streaming data.
 Perform data transformations and enrichment using NiFi processors.
 Monitor data flows and troubleshoot any issues.
 Full project:
-Day 17: Data Governance and Master Data Management
+
+
+<p>Day 17: Data Governance and Master Data Management</p>
 Assume you are a data engineer working with company ABC. You are supposed to:
 Establish data governance policies and procedures.
 Define data stewardship roles and responsibilities.
@@ -348,7 +350,9 @@ Implement change data capture (CDC) to track data changes.
 Sync data in real-time or periodically between source and target systems.
 Monitor replication processes and handle any conflicts or errors.
 Full project:
-Day 19: Natural Language Processing (NLP) for Text Analytics
+
+
+<p>Day 19: Natural Language Processing (NLP) for Text Analytics</p>
 Assume you are a data engineer working with company ABC. You are supposed to:
 Use NLP libraries like NLTK or SpaCy to preprocess text data.
 Apply techniques like tokenization, stemming, and named entity recognition.
@@ -356,42 +360,48 @@ Build text classification or sentiment analysis models.
 Evaluate the model's performance and interpret the results.
 
 Full project:
-Day 20: Machine Learning Pipeline with Apache Beam
+
+
+<p>Day 20: Machine Learning Pipeline with Apache Beam</p>
 Assume you are a data engineer working with company ABC. You are supposed to:
 Set up an Apache Beam environment for distributed data processing.
 Design a machine learning pipeline for a specific use case.
 Implement data preprocessing, feature engineering, and model training.
 Evaluate the model's performance and deploy it for predictions.
 
-Day 21: Time Series Analysis and Forecasting
+<p>Day 21: Time Series Analysis and Forecasting</p>
 Assume you are a data engineer working with company ABC. You are supposed to:
 Acquire a time series dataset (e.g., stock prices, weather data).
 Perform data exploration and visualization to understand trends.
 Apply time series forecasting techniques (e.g., ARIMA, LSTM).
 Evaluate the forecast accuracy and interpret the results.
 
-Day 22: Data Privacy and Anonymization Techniques
+<p>Day 22: Data Privacy and Anonymization Techniques</p>
 Assume you are a data engineer working with company ABC. You are supposed to:
 Implement data anonymization techniques to protect sensitive information.
 Apply methods like k-anonymity, l-diversity, and t-closeness.
 Evaluate the anonymization quality and balance with data utility.
 Document the anonymization process and ensure compliance.
 
-Day 23: Data Streaming with Apache Kafka Connect
+
+<p>Day 23: Data Streaming with Apache Kafka Connect</p>
 Assume you are a data engineer working with company ABC. You are supposed to:
 Configure and deploy Apache Kafka Connect connectors.
 Integrate various data sources (e.g., databases, cloud services).
 Define and manage data ingestion and replication pipelines.
 Monitor the connectors and troubleshoot any issues.
 
-Day 24: Graph Database Modeling and Querying
+
+<p>Day 24: Graph Database Modeling and Querying</p>
 Assume you are a data engineer working with company ABC. You are supposed to:
 Select a graph database system like Neo4j or Amazon Neptune.
 Design a graph data model based on a specific domain.
 Load sample data into the graph database and create relationships.
 Write and execute graph queries to traverse and analyze the data.
 
-Day 25: Data Pipeline Orchestration with Apache Oozie
+
+
+<p>Day 25: Data Pipeline Orchestration with Apache Oozie</p>
 Assume you are a data engineer working with company ABC. You are supposed to:
 Set up an Apache Oozie workflow scheduler and coordinator.
 Define and schedule data processing tasks in a workflow.
